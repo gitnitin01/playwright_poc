@@ -1,0 +1,12 @@
+{
+  "name": "playwright_poc",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:local": "npx playwright test --ui"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.36.2"
+  }
+}
