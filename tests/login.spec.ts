@@ -1,6 +1,6 @@
 import { expect, test } from "@playwright/test";
 import PracticeTestLoginPage from "../pages/PracticeTestLoginPage";
-import LoginTestData from "../fixtures/loginTestData";
+import LoginTestData from "../fixtures/LoginTestData";
 
 // Positive Login Tests
 test.describe('Positive Login Tests  @login @positive', async () => {

@@ -12,7 +12,7 @@ const loggedInSuccessfullyMsg = 'Logged In Successfully';
 const invalidUsernameErrorMsg = 'Your username is invalid!';
 const invalidPasswordErrorMsg = 'Your password is invalid!';
 
- const LoginTestData = {
+const LoginTestData = {
     validUserName,
     validPassword,
     loggedInSuccessfullyUrl,
